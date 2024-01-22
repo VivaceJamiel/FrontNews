@@ -1,0 +1,24 @@
+{
+  "name": "news",
+  "version": "1.0.0",
+  "description": "News app for practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "frontnews"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VivaceJamiel/FrontNews.git"
+  },
+  "keywords": [
+    "News",
+    "Articles",
+    "Interests"
+  ],
+  "author": "Jamiel Impoy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VivaceJamiel/FrontNews/issues"
+  },
+  "homepage": "https://github.com/VivaceJamiel/FrontNews#readme"
+}
