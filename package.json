@@ -20,5 +20,9 @@
   "bugs": {
     "url": "https://github.com/VivaceJamiel/FrontNews/issues"
   },
-  "homepage": "https://github.com/VivaceJamiel/FrontNews#readme"
+  "homepage": "https://github.com/VivaceJamiel/FrontNews#readme",
+  "dependencies": {
+    "newsapi": "^2.4.1",
+    "node-fetch": "^3.3.2"
+  }
 }
